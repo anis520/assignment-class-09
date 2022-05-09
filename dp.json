@@ -1,0 +1,69 @@
+{
+
+    "students" :[
+        {
+             "StudentName"  :  "Asraful ",
+             "age"          :  30,
+             "class" : 15
+        },
+        {
+             "StudentName"  :  "Anisul ",
+              "age"         :    20,
+              "class"       :    13
+        },
+        {
+              "StudentName" :  "Rahim ",
+              "age"         :    15,
+              "class"       :     8
+        },
+        
+        {
+              "StudentName" :  "Abid ",
+              "age"         :    11,
+              "class"       :     7
+        },
+        
+        {
+              "StudentName" :  "Rohan ",
+              "age"         :    21,
+              "class"       :    11
+        }
+    ],
+    
+    "Teachers":[
+
+        {
+            "TeacherName" : "Asraful Hoque",
+            "Skills"      : "Mern Stack",
+            "age"         :  28,
+            "location"    : "Dhaka"
+        },
+        {
+            "TeacherName" : "Maraful Hoque",
+            "Skills"      : "Mean Stack",
+            "age"         :  26,
+            "location"    : "Chittagong"
+        },
+        {
+            "TeacherName" : "Nihan condokar",
+            "Skills"      : "PHP ",
+            "age"         :  25,
+            "location"    : "Dhaka"
+        },
+        {
+            "TeacherName" : "Aisha Akter",
+            "Skills"      : "API Developer",
+            "age"         :  22,
+            "location"    : "Chittagong"
+        },
+        {
+            "TeacherName" : "Asraful Hoque",
+            "Skills"      : "Mern Stack",
+            "age"         :  28,
+            "location"    : "Dhaka"
+        }
+    ]
+
+
+
+}
